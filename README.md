@@ -3,4 +3,6 @@ Code for Arduino glove.
 
 ## Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dDQjlyh8l_I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=dDQjlyh8l_I
+" target="_blank"><img src="http://img.youtube.com/vi/dDQjlyh8l_I/0.jpg"
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
